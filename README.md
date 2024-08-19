@@ -35,3 +35,5 @@
 </div>
 
 ###
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vitorgz01&theme=dark&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>

@@ -2,6 +2,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/vitor-ginza-5b618625b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <img align="left" height="40" src="https://steamuserimages-a.akamaihd.net/ugc/436109173200784642/4E919A0DCF4C12B6D889257A4D7DA94EC5E5DF72/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###

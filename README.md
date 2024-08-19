@@ -36,4 +36,4 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vitorgz01&theme=dark&border_radius=0&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
